@@ -1,0 +1,41 @@
+.asatera-registration-container {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .asatera-registration-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .asatera-registration-container p {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  .social-icons{
+    width: 100px;
+    margin: 0 auto;
+  }
+  

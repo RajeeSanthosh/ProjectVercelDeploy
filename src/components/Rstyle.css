@@ -1,0 +1,31 @@
+.registration-container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  .instruction {
+    margin-bottom: 20px;
+  }
+  
+  .send-email-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .send-email-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  .social-icons{
+    width: 100px;
+    margin: 0 auto;
+  }
